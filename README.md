@@ -1,6 +1,7 @@
 # Microservices & Container Security
-> Welcome To The World of Containers:
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about Microservices & Container Security. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+> Welcome To The World of Containers, nothing new for an advanced system administrator having evolved onto cloud infrastructures and technical architectures emerging in all sorts of variations, evolving trhough iterations, like we top guns do.
+> 
+> This is just one of many collection of awesome software, libraries, documents, books, resources and cool stuff about Microservices & Container Security. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `What are containers?`
 [Containers](https://www.ibm.com/cloud/learn/containers) are executable units of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere, whether it be on desktop, traditional IT, or the cloud.
